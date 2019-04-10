@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formula</string>
+    <string name="str_amd_url">https://amd.spbstu.ru/</string>
+    <string name="str_depth">Applied Math Department</string>
+    <string name="str_university1">Peter the Great St.Petersburg</string>
+    <string name="str_university2">Politechnic University</string>
+    <string name="str_toweb">To web site</string>
+    <string name="str_start">Start</string>
+    <string name="main_menu_name">FORMULA</string>
+    <string name="main_menu_play">Play</string>
+    <string name="main_menu_rules">Rules</string>
+    <string name="back">Back</string>
+    <string name="instruction_part1">Click on empty block to mark the place</string>
+    <string name="instruction_part2">where you want to put the answer</string>
+    <string name="instruction_part3">to make the equality true</string>
+    <string name="choose_level">CHOOSE LEVEL</string>
+    <string name="success">SUCCESS!!!</string>
+    <string name="restart">restart</string>
+    <string name="main_menu">main menu</string>
+    <string name="next_level">next level</string>
+
+
+</resources>

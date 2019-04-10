@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Формула</string>
+    <string name="str_amd_url">https://amd.spbstu.ru/</string>
+    <string name="str_depth">Кафедра Прикладной Математики</string>
+    <string name="str_university1">Санкт-Петербургский Политехнический</string>
+    <string name="str_university2">университет Петра Великого</string>
+    <string name="str_toweb">На сайт</string>
+    <string name="str_start">Старт</string>
+    <string name="main_menu_name">ФОРМУЛА</string>
+    <string name="main_menu_play">Играть</string>
+    <string name="main_menu_rules">Правила</string>
+    <string name="back">Назад</string>
+    <string name="instruction_part1">Нажмите на пустую клетку на игровом поле,</string>
+    <string name="instruction_part2">а затем нажмите на цифру или знак в ниж-</string>
+    <string name="instruction_part3">ней части экрана. Выбранная цифра или</string>
+    <string name="choose_level">ВЫБЕРИТЕ УРОВЕНЬ</string>
+    <string name="success">УСПЕХ!!!</string>
+    <string name="restart">заново</string>
+    <string name="main_menu">меню</string>
+    <string name="next_level">далее</string>
+
+
+</resources>
